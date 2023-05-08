@@ -1,0 +1,36 @@
+li{
+    list-style-type: none;
+}
+
+.card__main{
+ 
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 10px;
+    line-height: 2px;
+}
+
+ul{
+    display: flex;
+}
+
+.card__inner{
+    background-color: skyblue;
+    margin-left: 10px;
+    width: 23rem;
+    height: 10rem;
+    /* display: flex; */
+    /* align-items: center;
+    text-align: center;
+    justify-content: center; */
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
